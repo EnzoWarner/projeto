@@ -5,6 +5,8 @@
 
 Passo 2: Baixar bibliotecas
 
+npm install expo
+
 npx expo install react-dom react-native-web @expo/metro-runtime
 
 Criar um Novo Projeto Expo
